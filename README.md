@@ -46,7 +46,7 @@ The dataset contains various attributes about visa applicants and their employer
 
 ## Key Achievements
 
-- **High Model Performance**: Achieved F1 scores of over 80% using Gradient Boosting, demonstrating strong predictive capability for visa approvals.
+- **High Model Performance**: Achieved F1 scores of over 80% using Gradient Boosting (GBM), with the best model achieving 82.3% F1 score, demonstrating strong predictive capability for visa approvals.
 - **Data Imbalance Handling**: Successfully addressed class imbalance through SMOTE oversampling, enhancing model performance across all algorithms.
 
 ## Model Performance Highlights
